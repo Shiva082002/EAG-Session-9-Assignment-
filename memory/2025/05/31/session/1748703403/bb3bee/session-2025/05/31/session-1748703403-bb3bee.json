@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": 1748703403.4647872,
+    "type": "run_metadata",
+    "text": "Started new session with input: what is a datamining serach in the documents at 2025-05-31T14:56:43.464787",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "metadata": {
+      "start_time": "2025-05-31T20:26:43.464787",
+      "step": 0
+    }
+  },
+  {
+    "timestamp": 1748703404.7404156,
+    "type": "tool_output",
+    "text": "Output of perception: {'result': \"Step 0 || intent='Find information about datamining search within documents.' entities=['datamining', 'documents'] tool_hint='document search' tags=[] selected_servers=['documents']\"}",
+    "tool_name": "perception",
+    "tool_args": {
+      "perception": {
+        "intent": "Find information about datamining search within documents.",
+        "entities": [
+          "datamining",
+          "documents"
+        ],
+        "tool_hint": "document search",
+        "tags": [],
+        "selected_servers": [
+          "documents"
+        ]
+      }
+    },
+    "tool_result": {
+      "result": "Step 0 || intent='Find information about datamining search within documents.' entities=['datamining', 'documents'] tool_hint='document search' tags=[] selected_servers=['documents']"
+    },
+    "final_answer": null,
+    "tags": [
+      "perception"
+    ],
+    "success": true,
+    "metadata": {}
+  },
+  {
+    "timestamp": 1748703407.0752833,
+    "type": "tool_call",
+    "text": "Called plan with {'plan': 'import json\\nasync def solve():\\n    # Using search_stored_documents to find information about datamining search in the documents.\\n    \"\"\"Search documents to get relevant extracts. Usage: input={\"input\": {\"query\": \"your query\"}}\"\"\"\\n    input = {\"input\": {\"query\": \"datamining search\"}}\\n    result = await mcp.call_tool(\\'search_stored_documents\\', input)\\n    return f\"FURTHER_PROCESSING_REQUIRED: {result}\"'}",
+    "tool_name": "plan",
+    "tool_args": {
+      "plan": "import json\nasync def solve():\n    # Using search_stored_documents to find information about datamining search in the documents.\n    \"\"\"Search documents to get relevant extracts. Usage: input={\"input\": {\"query\": \"your query\"}}\"\"\"\n    input = {\"input\": {\"query\": \"datamining search\"}}\n    result = await mcp.call_tool('search_stored_documents', input)\n    return f\"FURTHER_PROCESSING_REQUIRED: {result}\""
+    },
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "plan"
+    ],
+    "success": null,
+    "metadata": {}
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2025-05-14T15:14:51.331059",
+    "query": "What do you know about Don Tapscott and Anthony Williams?",
+    "answer": "FINAL_ANSWER: [Max steps reached]",
+    "final_answer": "[Max steps reached]"
+  },
+  {
+    "timestamp": "2025-05-14T15:16:56.375698",
+    "query": "What do you know about Don Tapscott and Anthony Williams?",
+    "answer": "FINAL_ANSWER: [Max steps reached]",
+    "final_answer": "[Max steps reached]"
+  },
+  {
+    "timestamp": "2025-05-25T23:30:36.627976",
+    "query": "How much Anmol singh paid for his DLF apartment via Capbridge?",
+    "answer": "FINAL_ANSWER: Capbridge paid Rs. 42.94 Crore to DLF for the apartment.",
+    "final_answer": "Capbridge paid Rs. 42.94 Crore to DLF for the apartment."
+  },
+  {
+    "timestamp": "2025-05-25T23:32:52.869530",
+    "query": "what are the rules of writing paragraph serach  in documents.",
+    "answer": "FINAL_ANSWER: [Max steps reached]",
+    "final_answer": "[Max steps reached]"
+  },
+  {
+    "timestamp": "2025-05-25T23:35:10.838749",
+    "query": "what is Clustering serach in documents",
+    "answer": "FINAL_ANSWER: [Max steps reached]",
+    "final_answer": "[Max steps reached]"
+  },
+  {
+    "timestamp": "2025-05-25T23:58:40.561689",
+    "query": "what is clustring in machine learninng serach in document",
+    "answer": "FINAL_ANSWER: [Max steps reached]",
+    "final_answer": "[Max steps reached]"
+  },
+  {
+    "timestamp": "2025-05-25T23:59:34.241932",
+    "query": "what is clustring in machine learninng",
+    "answer": "FINAL_ANSWER: Clustering in machine learning is an unsupervised learning technique that groups data points based on their similarity. It's used for various purposes like market segmentation, anomaly detection, and simplifying large datasets. There are two main types of clustering: hard clustering, where each data point belongs to only one cluster, and soft clustering, where data points can belong to multiple clusters with varying probabilities. Different clustering methods include centroid-based, density-based, connectivity-based, distribution-based, and fuzzy clustering, each with its own approach to identifying and grouping data points.",
+    "final_answer": "Clustering in machine learning is an unsupervised learning technique that groups data points based on their similarity. It's used for various purposes like market segmentation, anomaly detection, and simplifying large datasets. There are two main types of clustering: hard clustering, where each data point belongs to only one cluster, and soft clustering, where data points can belong to multiple clusters with varying probabilities. Different clustering methods include centroid-based, density-based, connectivity-based, distribution-based, and fuzzy clustering, each with its own approach to identifying and grouping data points."
+  },
+  {
+    "timestamp": "2025-05-31T20:26:33.778170",
+    "query": "what is a datamining serach in the documents",
+    "answer": "FINAL_ANSWER: [Max steps reached]",
+    "final_answer": "[Max steps reached]"
+  },
+  {
+    "timestamp": "2025-05-31T20:34:40.358063",
+    "query": "what is data mining serach in the documents",
+    "answer": "FINAL_ANSWER: [Max steps reached]",
+    "final_answer": "[Max steps reached]"
+  },
+  {
+    "timestamp": "2025-05-31T21:23:33.294276",
+    "query": "summarize this page https://en.wikipedia.org/wiki/Valorant",
+    "answer": "FINAL_ANSWER: Valorant is a free-to-play, team-based tactical hero shooter developed and published by Riot Games, released on June 2, 2020, for Windows and ported to PlayStation 5 and Xbox Series X/S in June 2024. Inspired by Counter-Strike, it features mechanics like a buy menu and spray patterns. Players choose from a set of Agents with unique abilities. The main game mode involves attacking and defending teams with objectives like planting or defusing a Spike (bomb).\n\nThe game offers various modes, including Unrated, Spike Rush, Swiftplay, Competitive, Premier, Deathmatch, Team Deathmatch, Escalation, Replication, and Snowball Fight (limited-time). Competitive mode features a ranking system from Iron to Radiant.\n\nValorant has received positive reviews, drawing comparisons to Counter-Strike: Global Offensive and Overwatch. It also has an active esports scene with the Valorant Champions Tour. The game has faced criticism regarding player behavior and its anti-cheat software, Riot Vanguard.",
+    "final_answer": "Valorant is a free-to-play, team-based tactical hero shooter developed and published by Riot Games, released on June 2, 2020, for Windows and ported to PlayStation 5 and Xbox Series X/S in June 2024. Inspired by Counter-Strike, it features mechanics like a buy menu and spray patterns. Players choose from a set of Agents with unique abilities. The main game mode involves attacking and defending teams with objectives like planting or defusing a Spike (bomb).\n\nThe game offers various modes, including Unrated, Spike Rush, Swiftplay, Competitive, Premier, Deathmatch, Team Deathmatch, Escalation, Replication, and Snowball Fight (limited-time). Competitive mode features a ranking system from Iron to Radiant.\n\nValorant has received positive reviews, drawing comparisons to Counter-Strike: Global Offensive and Overwatch. It also has an active esports scene with the Valorant Champions Tour. The game has faced criticism regarding player behavior and its anti-cheat software, Riot Vanguard."
+  },
+  {
+    "timestamp": "2025-05-31T21:24:24.834452",
+    "query": "what is Adequate development in paragraph development search in documents",
+    "answer": "FINAL_ANSWER: Adequate development in paragraph development means that the topic introduced by the topic sentence should be discussed fully. While the length varies, a good guideline is to have four to five sentences that explain and elaborate on the topic sentence. Adequate development is achieved through details, including facts, descriptions, examples, quotes, analysis, explanations, and evaluations.",
+    "final_answer": "Adequate development in paragraph development means that the topic introduced by the topic sentence should be discussed fully. While the length varies, a good guideline is to have four to five sentences that explain and elaborate on the topic sentence. Adequate development is achieved through details, including facts, descriptions, examples, quotes, analysis, explanations, and evaluations."
+  },
+  {
+    "timestamp": "2025-05-31T21:25:00.080808",
+    "query": "At the heart of the Whispering Caves what fin found serach in the documents",
+    "answer": "FINAL_ANSWER: At the heart of the Whispering Caves, Finn found the golden compass embedded in a stone pedestal.",
+    "final_answer": "At the heart of the Whispering Caves, Finn found the golden compass embedded in a stone pedestal."
+  }
+]
