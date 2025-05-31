@@ -1,12 +1,13 @@
-For a detailed view of the execution logs for these queries
+For a detailed view of the execution logs for these queries, please refer to:
 
-- "summarize this page https://en.wikipedia.org/wiki/Valorant"
-- "what is Adequate development in paragraph development search in documents"
-- "At the heart of the Whispering Caves what fin found serach in the documents"
+- **"summarize this page https://en.wikipedia.org/wiki/Valorant"** (see lines [19–84](https://github.com/Shiva082002/EAG-Session-9-Assignment-/blob/main/Executionlog.log#L19-L84))
+- **"what is Adequate development in paragraph development search in documents"** (see lines [97–156](https://github.com/Shiva082002/EAG-Session-9-Assignment-/blob/main/Executionlog.log#L97-L156))
+- **"At the heart of the Whispering Caves what fin found serach in the documents"** (see lines [163–227](https://github.com/Shiva082002/EAG-Session-9-Assignment-/blob/main/Executionlog.log#L163-L227))
 
-, please refer to:
+You can find the full execution log here:
 
 [Full Execution Log](https://github.com/Shiva082002/EAG-Session-9-Assignment-/blob/main/Executionlog.log)
+
 
 
 # Cortex-R Agent
@@ -126,11 +127,13 @@ Upon startup, you will see:
 ```
 
 Example queries you might try:
-- "summarize this page https://en.wikipedia.org/wiki/Valorant"
-- "what is Adequate development in paragraph development search in documents"
-- "At the heart of the Whispering Caves what fin found serach in the documents"
-
 For a detailed view of the execution logs for these queries, please refer to:
+
+- **"summarize this page https://en.wikipedia.org/wiki/Valorant"** (see lines [19–84](https://github.com/Shiva082002/EAG-Session-9-Assignment-/blob/main/Executionlog.log#L19-L84))
+- **"what is Adequate development in paragraph development search in documents"** (see lines [97–156](https://github.com/Shiva082002/EAG-Session-9-Assignment-/blob/main/Executionlog.log#L97-L156))
+- **"At the heart of the Whispering Caves what fin found serach in the documents"** (see lines [163–227](https://github.com/Shiva082002/EAG-Session-9-Assignment-/blob/main/Executionlog.log#L163-L227))
+
+You can find the full execution log here:
 
 [Full Execution Log](https://github.com/Shiva082002/EAG-Session-9-Assignment-/blob/main/Executionlog.log)
 
