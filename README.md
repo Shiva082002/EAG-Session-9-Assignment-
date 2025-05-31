@@ -1,4 +1,10 @@
-For a detailed view of the execution logs for these queries, please refer to:
+For a detailed view of the execution logs for these queries
+
+- "summarize this page https://en.wikipedia.org/wiki/Valorant"
+- "what is Adequate development in paragraph development search in documents"
+- "At the heart of the Whispering Caves what fin found serach in the documents"
+
+, please refer to:
 
 [Full Execution Log](https://github.com/Shiva082002/EAG-Session-9-Assignment-/blob/main/Executionlog.log)
 
