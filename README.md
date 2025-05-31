@@ -71,24 +71,25 @@ Cortex-R maintains a comprehensive history of all past interactions in `historic
 
 The agent applies 15 carefully crafted heuristic rules to verify and improve the quality, safety, and reliability of both user inputs and LLM-generated responses.
 
-**Input Heuristics:**
-- Enforces input length limits to prevent context overflow
-- Filters banned or unsafe words to maintain system integrity
-- Redacts sensitive information such as PII and credentials
-- Normalizes queries for improved matching with historical data
-- Detects and reformats mathematical expressions for clarity
-- Identifies and flags unsafe code patterns (e.g., `os.system`, `eval`, file writes)
-- Validates and corrects JSON strings for proper formatting
-- Detects potential infinite loops and inserts safety counters
-- Adds bounds and key checks for safe collection access
-- Enforces consistent variable naming conventions
+**Input Validation Rules:**
+- Restricts input length to prevent exceeding context limits  
+- Filters out banned or unsafe terms to safeguard the system  
+- Removes sensitive data such as personal information and credentials  
+- Normalizes queries to improve matching with past conversations  
+- Detects and reformats mathematical expressions for clarity  
+- Flags dangerous code patterns like `os.system`, `eval`, and file modifications  
+- Validates and corrects JSON formatting for accuracy  
+- Identifies potential infinite loops and inserts protective counters  
+- Adds boundary and key checks to ensure safe collection access  
+- Enforces consistent variable naming standards  
 
-**Output Heuristics:**
-- Validates that responses are structured as proper `solve()` functions
-- Extracts executable code from markdown-formatted responses
-- Automatically adds missing import statements
-- Ensures return statements follow the required format
-- Checks for proper use of `await` in asynchronous calls
+**Output Validation Rules:**
+- Ensures responses are properly formatted as `solve()` functions  
+- Extracts executable code embedded within markdown responses  
+- Automatically adds missing import statements when needed  
+- Verifies that return statements follow the required structure  
+- Checks correct usage of `await` in asynchronous calls  
+
 
 ### 3. Optimized Decision Prompting
 
